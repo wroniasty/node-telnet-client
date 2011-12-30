@@ -1,0 +1,11 @@
+{
+  "author": "Jakub Wroniecki <wroniasty@gmail.com>",
+  "name": "telnet",
+  "description": "Node telnet client library.",
+  "version": "0.0.1",
+  "homepage": "http://github.com/wroniasty/node-telnet-client",
+  "main": "./index",
+  "engines": {
+    "node": "*"
+  }
+}
